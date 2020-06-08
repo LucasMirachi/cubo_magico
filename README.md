@@ -37,6 +37,7 @@ Link da pasta no Google Drive com todas as annotations: https://drive.google.com
 
 ## Treinando o Modelo
 Link do algoritmo no Google Colab: https://colab.research.google.com/drive/1zetvD21biDup6xlk_uS2A_MufVLfGVT_ (**Obs:** Aqui pretendo relatar todas as etapas do projeto como um todo. Futuramente pretendo escrever um artigo no Medium falando unicamente sobre o funcionamento deste código). 
+
 Antes de iniciar o código, foi preciso gravar um vídeo que serve de input para que o algoritmo localize o cubo mágico e então possa rastreá-lo e classificar se ele está resolvido ou não. Após gravar o vídeo e colocá-lo no caminho correto do Google Drive, finalmente foi possível rodar o código e, após o algoritmo treinar e fazer a análise sobre o vídeo que coloquei de input, o mesmo gerou um arquivo de vídeo com o output.
 
 ### O resultado final pode ser visto nesta minha [postagem no LinkedIn](https://www.linkedin.com/posts/lucasmirachi_deeplearning-objectdetection-imageclassification-activity-6592496956382171136-h268).
